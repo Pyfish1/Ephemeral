@@ -1,0 +1,12 @@
+name = "GachaAddiction"
+filename = "gachaaddiction-1.1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hMkrmnbi/versions/3XeoUlS9/gachaaddiction-1.1.3.1.jar"
+hash-format = "sha512"
+hash = "993524cbfba2201d0084f8407d5c2319b3416b4b29722442594d9f98314fb1484c06120c9eb32d652dbeddcfab5b799f9e0af5fff131445c0a1377d0da4b210c"
+
+[update.modrinth]
+mod-id = "hMkrmnbi"
+version = "3XeoUlS9"

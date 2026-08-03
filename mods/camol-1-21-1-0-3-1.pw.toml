@@ -1,0 +1,12 @@
+name = "Camol"
+filename = "camol-1.21.1-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/1214396/files/7976624/download"
+hash-format = "sha1"
+hash = "1f5107b1fe0465d97802b792bcfd39e3221a7ba2"
+
+[update.curseforge]
+file-id = 7976624
+project-id = 1214396
