@@ -226,11 +226,6 @@ hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
-file = "mods/create-aeroworks.pw.toml"
-hash = "d6a416c2c87e593a23bbc79856079a4e6bd3875c2f020a557c3b2011438dd178"
-metafile = true
-
-[[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "13481b387ddbf461b1da0ff317df17beafeda05291a586ee717bac23c86a0e74"
 metafile = true
@@ -403,11 +398,6 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
-metafile = true
-
-[[files]]
-file = "mods/gachaaddiction.pw.toml"
-hash = "4be188abbd90f314471f3e1215727ef76e9b62c5139663c9862cf70cc1707c1c"
 metafile = true
 
 [[files]]
