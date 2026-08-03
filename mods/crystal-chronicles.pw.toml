@@ -1,13 +1,13 @@
-name = "Crystal Chronicles - Iron's Spells 'n Spellbooks"
-filename = "crystal_chronicles-0.1.3-alpha.jar"
+name = "Crystal Chronicles"
+filename = "crystal_chronicles-0.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "afdc32ab27661cd52160280dc4273d70a2d4a3d2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/96yhlGDU/versions/TOrVQXLo/crystal_chronicles-0.0.9.jar"
+hash-format = "sha512"
+hash = "91cce2bddf3a26348f3c84a8841e0d915850efc1200533f50e7bf15ea90e7053f91d1383ff810d9bee4b23968abece92e256d77221b4133450a7564d9fbaebb2"
 
 [update]
-[update.curseforge]
-file-id = 8346590
-project-id = 1153374
+[update.modrinth]
+mod-id = "96yhlGDU"
+version = "TOrVQXLo"
